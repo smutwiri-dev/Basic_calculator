@@ -1,6 +1,6 @@
 ## Basic Calculator
 
-A simple python program that performs basic arithmetic operations: **addition**, **subtraction**, **multiplication**, and **division** on two user-provided numbers.
+A simple python program that performs basic arithmetic operations: addition, subtraction, multiplication, and division on two user-provided numbers.
 
 ##  Features
 - Accepts both whole numbers and decimal values.
@@ -26,3 +26,5 @@ A simple python program that performs basic arithmetic operations: **addition**,
 - Avoid dividing by zero to prevent errors.
 - If you input an unsupported operation, the calculator will respond with an error message.
 
+## Contributing
+Contributions to improve or add new features to this calculator are welcome!
